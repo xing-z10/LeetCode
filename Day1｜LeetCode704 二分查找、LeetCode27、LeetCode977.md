@@ -9,6 +9,7 @@
 
 ###### 完整代码
 <img width="374" alt="image" src="https://github.com/user-attachments/assets/98132a16-6e03-4bfe-b6b8-b4f941736290" />  
+
 Time Complexity: O(log n)  
 Space Complexity: O(1)  
 
@@ -19,6 +20,7 @@ Space Complexity: O(1)
 
 #### Code Solution
 <img width="440" alt="image" src="https://github.com/user-attachments/assets/c1007fdd-5105-4817-90cd-52413b3317fe" />  
+
 Time Complexity: O(n)
 Space Complexity: O(1)  
 
