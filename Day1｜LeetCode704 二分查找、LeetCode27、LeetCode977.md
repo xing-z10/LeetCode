@@ -8,4 +8,6 @@
 分清左闭右开
 
 ###### 完整代码
-
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/c232035f-b07b-43c1-ae61-fa9b587d36ab" />
+Time Complexity: O(log n)
+Space Complexity: O(1)
