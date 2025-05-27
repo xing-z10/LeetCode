@@ -9,7 +9,7 @@
 分清左闭右开
 
 ###### 完整代码
-<img width="319" alt="image" src="https://github.com/user-attachments/assets/c232035f-b07b-43c1-ae61-fa9b587d36ab" />
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/98132a16-6e03-4bfe-b6b8-b4f941736290" />
 
 Time Complexity: O(log n)
 
