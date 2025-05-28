@@ -27,7 +27,22 @@ Space Complexity: O(1)
 <img width="498" alt="image" src="https://github.com/user-attachments/assets/0011f8f2-c81f-4219-9829-b16b146da16a" />  
 
 Time Complexity: O(n^2)  
-Space Complexity: O(1)
+Space Complexity: O(1)  
+
+#### 58 区间和  
+[Link](https://kamacoder.com/problempage.php?pid=1070)  
+[文章链接](https://www.programmercarl.com/kamacoder/0058.%E5%8C%BA%E9%97%B4%E5%92%8C.html#%E6%80%9D%E8%B7%AF)  
+
+###### 题目思路  
+创建一个array储存从0到该下标的总和，然后通过减法找到对应数值  
+例：创建sum_i 的array，sum_i[2]表示为从0加至下标2的总和，如果需要下标2至5的和，则为 sum_i[5]-sum_i[2-1]  
+
+###### Code Solution  
+<img width="662" alt="image" src="https://github.com/user-attachments/assets/e97b212a-c404-4b63-b4ed-478e2257bfbc" />  
+
+Time Complexity: O(n+m)  
+Space Complexity: O(n+m)  
+
 
 
   
