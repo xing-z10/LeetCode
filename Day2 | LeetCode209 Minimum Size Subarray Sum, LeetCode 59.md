@@ -43,6 +43,19 @@ Space Complexity: O(1)
 Time Complexity: O(n+m)  
 Space Complexity: O(n+m)  
 
+#### 开发商购买土地  
+[Link](https://kamacoder.com/problempage.php?pid=1044)  
+[文章链接](https://www.programmercarl.com/kamacoder/0044.%E5%BC%80%E5%8F%91%E5%95%86%E8%B4%AD%E4%B9%B0%E5%9C%9F%E5%9C%B0.html)  
+
+###### 题目思路。
+和58思路相似  
+
+###### Code Solution
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/b8d7e0c0-5ba9-4113-926c-3e4c10c636a9" />  
+
+Time Complexity: O(n^2)
+Space Complexity: O(n^2)
+
 
 
   
