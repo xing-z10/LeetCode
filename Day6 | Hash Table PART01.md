@@ -1,4 +1,4 @@
-## Day5 Hash Table PART01  
+## Day6 Hash Table PART01  
 
 [文章链接](https://docs.qq.com/doc/DUEtFSGdreWRuR2p4?nlc=1)  
 
