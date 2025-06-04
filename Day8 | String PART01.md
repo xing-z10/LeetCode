@@ -25,7 +25,7 @@ Space Complexity: O(1)
 
 #### 替换数字  
 
-[文章链接](https://programmercarl.com/kamacoder/0054.%E6%9B%BF%E6%8D%A2%E6%95%B0%E5%AD%97.html#%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80%E7%89%88%E6%9C%AC) 
+[文章链接](https://programmercarl.com/kamacoder/0054.%E6%9B%BF%E6%8D%A2%E6%95%B0%E5%AD%97.html#%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80%E7%89%88%E6%9C%AC)   
 [Problem Link](https://kamacoder.com/problempage.php?pid=1064)  
 
 ###### Code Solution  
